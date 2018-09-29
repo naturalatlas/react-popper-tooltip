@@ -1,8 +1,8 @@
 {
-  "vendors.js": "/react-popper-tooltip/static/js/vendors.617cd52e.js",
-  "app.js": "/react-popper-tooltip/static/js/app.4e3b2f00.js",
-  "docs-readme.css": "/react-popper-tooltip/static/css/docs-readme.e20228854d8ec39d9cd6.css",
-  "docs-readme.js": "/react-popper-tooltip/static/js/docs-readme.ab57f599.js",
-  "runtime~app.js": "/react-popper-tooltip/static/js/runtime~app.e20228854d8ec39d9cd6.js",
+  "vendors.js": "/react-popper-tooltip/static/js/vendors.9b979b07.js",
+  "app.js": "/react-popper-tooltip/static/js/app.2bf6ed13.js",
+  "docs-readme.css": "/react-popper-tooltip/static/css/docs-readme.9bec4d70ff686076dd4f.css",
+  "docs-readme.js": "/react-popper-tooltip/static/js/docs-readme.0cc456b1.js",
+  "runtime~app.js": "/react-popper-tooltip/static/js/runtime~app.9bec4d70ff686076dd4f.js",
   "index.html": "/react-popper-tooltip/index.html"
 }
