@@ -115,7 +115,7 @@ declare module 'react-popper-tooltip' {
      * Element to be used as portal container
      * Defaults to document.body.
      */
-    portalContainer?: HTMLElement;
+    portalContainer?: object;
     /**
      * Modifiers passed directly to the underlying popper.js instance. For more
      * information, refer to Popper.js’ [modifier docs](https://popper.js.org/popper-documentation.html#modifiers).
